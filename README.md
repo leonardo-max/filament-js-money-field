@@ -20,7 +20,7 @@ If the column is of type `integer`, the entered value is stored as an integer, i
 You can install the package via composer:
 
 ```bash
-composer require tuxones/filament-js-money-field
+composer require leonardo-max/filament-js-money-field
 ```
 
 ## Usage
