@@ -1,5 +1,5 @@
 {
-    "name": "tuxones/filament-js-money-field",
+    "name": "leonardo-max/filament-js-money-field",
     "description": "A Laravel Filament plugin for dynamic international currency masking using JavaScript Intl, supporting flexible currency and locale configuration via closures.",
     "keywords": [
         "tuxon",
